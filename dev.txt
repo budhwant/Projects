@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 This is dev file from dev branch
 
@@ -5,3 +6,12 @@ This is dev file from dev branch
 time is 20.40
 
 Date is 25-04-2024
+=======
+this is dev file from dev branch
+
+time is 11.40
+
+now time is 13/04/2024 19.13
+
+Want to merge into master branch
+>>>>>>> dev
